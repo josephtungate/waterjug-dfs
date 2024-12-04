@@ -9,6 +9,8 @@ There are 3 jugs that have capacities of A gallons, B gallons, and C gallons. A 
 # Contents
 The repository contains the following files:
 * waterjug.jar - The compiled program.
+* WaterJugProblem.java - Source code.
+* WaterJugDFS.java - Source code including main.
 
 # Running the Program
 To run the program download waterjug.jar and run it with 'java -jar waterjug.jar'. The program will prompt the user for values for A, B, and C and output all possible states.
